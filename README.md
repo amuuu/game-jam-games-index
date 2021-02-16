@@ -1,4 +1,4 @@
-# game-jam-games-index
+# Game Jam Games Index
 List of the source code repos for the game jams that I participated in:
 
 - Brackeys 2021-1 / Unity: [link](https://github.com/amuuu/brackeys-game-jam-2021-1)
